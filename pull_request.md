@@ -1,4 +1,4 @@
-#Suggesting changes and collaborating on a repo
+# Suggesting changes and collaborating on a repo
 
 GitHub makes it easy to collaborate with other Microsoft Learning users on the courses in which you are interested. 
 
