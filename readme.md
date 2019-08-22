@@ -18,6 +18,4 @@ GitHub should not be used to discuss technical content in the course, or how to 
 
 - [GitHub Terminology](terminology/)
 
-- [Microsoft Learning's GitHub solution for course labs](solution/)
-
 - [Receiving update notifications, suggesting changes, and collaborating on projects](collaboration/)
