@@ -1,4 +1,4 @@
-GitHub introduces terminology that might be new to you, and the following list includes terms and concepts that this document uses. However, for a full list of GitHub terms, refer to the “GitHub Glossary” at <https://help.github.com/articles/GitHub-glossary/>. 
+GitHub introduces terminology that might be new to you, and the following list includes terms and concepts that this document uses. However, for a full list of GitHub terms, refer to the [GitHub Glossary](https://docs.github.com/en/get-started/quickstart/github-glossary).
 
 | Term | Explanation |
 | --- | --- |
